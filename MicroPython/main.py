@@ -1,7 +1,7 @@
 """
-Created by: Mr. Coxall
+Created by: Katherine
 Created on: Feb 2026
-This module is a Micro:bit MicroPython program
+This program will display hello world
 """
 
 from microbit import *
